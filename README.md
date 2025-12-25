@@ -29,8 +29,7 @@ This repository is created to **help students understand problem-solving approac
 ## 🛠 Languages Used
 
 - Java  
-- C++  
-- Python  
+- Python
 
 *(More languages will be added in the future.)*
 
