@@ -20,7 +20,7 @@ This repository is created to **help students understand problem-solving approac
 1. **[LeetCode](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/LeetCode)**
 2. **CodeChef**
 3. **[GeeksforGeeks](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/GeeksForGeek)**
-4. **Codeforces**
+4. **[Codeforces](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/Codeforces)**
 5. **AtCoder**
 6. **[CSES Problem Set](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/CSES)**
 
