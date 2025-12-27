@@ -17,7 +17,7 @@ This repository is created to **help students understand problem-solving approac
 
 ## 🌐 Supported Platforms
 
-1. **LeetCode**
+1. **[LeetCode](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/LeetCode)**
 2. **CodeChef**
 3. **[GeeksforGeeks](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/GeeksForGeek)**
 4. **Codeforces**
