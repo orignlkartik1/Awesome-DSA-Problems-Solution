@@ -5,7 +5,7 @@ This repository is created to **help students understand problem-solving approac
 
 ---
 
-## ✨ What This Repository Offers
+## What This Repository Offers
 
 - ✅ Solved **Data Structures & Algorithms** problems  
 - 🧠 Clear and optimized solutions  
@@ -15,7 +15,7 @@ This repository is created to **help students understand problem-solving approac
 
 ---
 
-## 🌐 Supported Platforms
+##  Supported Platforms
 
 1. **[LeetCode](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/LeetCode)**
 2. **CodeChef**
@@ -26,7 +26,7 @@ This repository is created to **help students understand problem-solving approac
 
 ---
 
-## 🛠 Languages Used
+## Languages Used
 
 - Java  
 - Python
@@ -35,7 +35,7 @@ This repository is created to **help students understand problem-solving approac
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 Awesome-DSA-Problems-Solutions/
