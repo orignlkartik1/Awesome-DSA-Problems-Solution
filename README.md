@@ -1,4 +1,4 @@
-# 🚀 Awesome-DSA-Problems-Solutions
+# Awesome-DSA-Problems-Solutions
 
 A **centralized repository** containing **well-structured and solved DSA problems** from multiple competitive programming platforms.  
 This repository is created to **help students understand problem-solving approaches**, improve logic, and prepare for **coding interviews & contests**.
