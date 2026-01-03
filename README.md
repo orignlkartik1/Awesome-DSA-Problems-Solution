@@ -18,10 +18,10 @@ This repository is created to **help students understand problem-solving approac
 ##  Supported Platforms
 
 1. **[LeetCode](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/LeetCode)**
-2. **CodeChef**
+2. **[CodeChef](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/CodeChef)**
 3. **[GeeksforGeeks](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/GeeksForGeek)**
 4. **[Codeforces](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/Codeforces)**
-5. **AtCoder**
+5. **[AtCoder](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/LeetCode)**
 6. **[CSES Problem Set](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/CSES)**
 
 ---
