@@ -62,8 +62,6 @@ Awesome-DSA-Problems-Solutions/
 ├── License
 └── README.md
 
----
-
 ## 🤝 Contribution Guidelines
 
 Contributions are **welcome and appreciated**! 🎉  
@@ -93,6 +91,10 @@ You can contribute by:
 - Ensure the code **compiles and runs correctly**
 
 > Even small contributions matter — fixing a typo, optimizing code, or improving explanations helps others learn better ❤️
+```
+---
+
+**Note**: follow the [Template](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/blob/main/Template_for_the_contribution.md) file.
 
 ---
 
