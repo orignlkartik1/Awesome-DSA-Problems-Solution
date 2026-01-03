@@ -4,7 +4,7 @@ A **centralized repository** containing **well-structured and solved DSA problem
 This repository is created to **help students understand problem-solving approaches**, improve logic, and prepare for **coding interviews & contests**.
 
 ---
-# Idea behind this
+# Key Idea 
 
 This is a attempt to create all in one DSA platforms problems solutions and approaches on one repository, which helps students to understand diifrent approaches and mindset (Intuition) behind the problem solving.
 
