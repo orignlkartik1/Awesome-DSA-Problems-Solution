@@ -89,6 +89,7 @@ You can contribute by:
 - Avoid plagiarism — write solutions in **your own words and logic**
 - Prefer adding a **brief explanation or intuition** (if possible)
 - Ensure the code **compiles and runs correctly**
+- Also, file should be in markdown language.
 
 > Even small contributions matter — fixing a typo, optimizing code, or improving explanations helps others learn better ❤️
 ```
