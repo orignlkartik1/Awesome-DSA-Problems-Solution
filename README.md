@@ -4,6 +4,11 @@ A **centralized repository** containing **well-structured and solved DSA problem
 This repository is created to **help students understand problem-solving approaches**, improve logic, and prepare for **coding interviews & contests**.
 
 ---
+# Key Idea 
+
+This is a attempt to create all in one DSA platforms problems solutions and approaches on one repository, which helps students to understand diifrent approaches and mindset (Intuition) behind the problem solving.
+
+---
 
 ## What This Repository Offers
 
@@ -18,11 +23,16 @@ This repository is created to **help students understand problem-solving approac
 ##  Supported Platforms
 
 1. **[LeetCode](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/LeetCode)**
-2. **CodeChef**
+2. **[CodeChef](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/CodeChef)**
 3. **[GeeksforGeeks](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/GeeksForGeek)**
 4. **[Codeforces](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/Codeforces)**
-5. **AtCoder**
+5. **[AtCoder](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/AtCoder)**
 6. **[CSES Problem Set](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/CSES)**
+7. **[UVA](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/CSES)**
+8. **[SPOJ](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/CSES)**
+9. **[LintCode](https://github.com/orignlkartik1/Awesome-DSA-Problems-Solution/tree/main/CSES)**
+
+*(More platforms will be added in the future.)*
 
 ---
 
@@ -46,5 +56,8 @@ Awesome-DSA-Problems-Solutions/
 ├── Codeforces/
 ├── AtCoder/
 ├── CSES/
-│
+├── SPOJ/
+├── UVA/
+├── LintCode/
+├── License
 └── README.md
