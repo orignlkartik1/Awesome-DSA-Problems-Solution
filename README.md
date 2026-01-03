@@ -61,3 +61,38 @@ Awesome-DSA-Problems-Solutions/
 ├── LintCode/
 ├── License
 └── README.md
+
+---
+
+## 🤝 Contribution Guidelines
+
+Contributions are **welcome and appreciated**! 🎉  
+This repository is built for learning and growing together, and your contributions can make it even better.
+
+You can contribute by:
+- ✨ Adding **new DSA problem solutions**
+- 🛠 Improving **existing solutions** (better time/space complexity)
+- 🧠 Adding **clear explanations / intuition** behind solutions
+- 🐛 Fixing bugs or incorrect logic
+- 📁 Organizing folders or improving documentation
+
+### How to Contribute
+
+1. **Fork** this repository  
+2. Create a new **branch** for your contribution  
+3. Add your solution in the **appropriate platform folder**
+4. Follow the existing **code structure and naming conventions**
+5. Write **clean, readable, and well-commented code**
+6. Submit a **Pull Request (PR)** with a brief description of your changes
+
+### Contribution Rules
+
+- Each solution should be **well-structured and easy to understand**
+- Avoid plagiarism — write solutions in **your own words and logic**
+- Prefer adding a **brief explanation or intuition** (if possible)
+- Ensure the code **compiles and runs correctly**
+
+> Even small contributions matter — fixing a typo, optimizing code, or improving explanations helps others learn better ❤️
+
+---
+
